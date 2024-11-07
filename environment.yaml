@@ -9,6 +9,7 @@ dependencies:
   - astropy
   - pandas
   - emcee
+  - zeus-mcmc
   - jax
   - flax
   - jaxopt
